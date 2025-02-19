@@ -12,3 +12,4 @@ C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debu
 C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\thermometer.pdb
 C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\thermometer.genruntimeconfig.cache
 C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\ref\thermometer.dll
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\thermometer.sourcelink.json
