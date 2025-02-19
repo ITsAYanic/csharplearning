@@ -12,3 +12,4 @@ C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\D
 C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\CsharpLearning.pdb
 C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\CsharpLearning.genruntimeconfig.cache
 C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\ref\CsharpLearning.dll
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\CsharpLearning.sourcelink.json
