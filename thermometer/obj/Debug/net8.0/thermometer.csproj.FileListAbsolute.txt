@@ -1,0 +1,14 @@
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\bin\Debug\net8.0\thermometer.exe
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\bin\Debug\net8.0\thermometer.deps.json
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\bin\Debug\net8.0\thermometer.runtimeconfig.json
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\bin\Debug\net8.0\thermometer.dll
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\bin\Debug\net8.0\thermometer.pdb
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\thermometer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\thermometer.AssemblyInfoInputs.cache
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\thermometer.AssemblyInfo.cs
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\thermometer.csproj.CoreCompileInputs.cache
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\thermometer.dll
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\refint\thermometer.dll
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\thermometer.pdb
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\thermometer.genruntimeconfig.cache
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\thermometer\obj\Debug\net8.0\ref\thermometer.dll

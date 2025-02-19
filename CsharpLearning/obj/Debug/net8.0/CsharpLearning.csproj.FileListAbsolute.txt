@@ -1,0 +1,14 @@
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\CsharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\CsharpLearning.AssemblyInfoInputs.cache
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\CsharpLearning.AssemblyInfo.cs
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\CsharpLearning.csproj.CoreCompileInputs.cache
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\bin\Debug\net8.0\CsharpLearning.exe
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\bin\Debug\net8.0\CsharpLearning.deps.json
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\bin\Debug\net8.0\CsharpLearning.runtimeconfig.json
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\bin\Debug\net8.0\CsharpLearning.dll
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\bin\Debug\net8.0\CsharpLearning.pdb
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\CsharpLearning.dll
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\refint\CsharpLearning.dll
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\CsharpLearning.pdb
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\CsharpLearning.genruntimeconfig.cache
+C:\Users\TAAVOYA3\ProgrammierProjekte\Arbeit\csharplearning\CsharpLearning\obj\Debug\net8.0\ref\CsharpLearning.dll
